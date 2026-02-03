@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Site sobre Call of Duty Warzone com dicas, modos de jogo e atualizações.">
+    <meta name="keywords" content="Warzone, Call of Duty, COD Warzone, Battle Royale">
+    <meta name="author" content="Seu Nome">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Call of Duty: Warzone</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #0f0f0f;
+            color: #ffffff;
+        }
+
+        header {
+            background: #000;
+            padding: 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            color: #00ff99;
+            margin: 0;
+        }
+
+        nav {
+            background: #111;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: #00ff99;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        section {
+            padding: 30px;
+            max-width: 1000px;
+            margin: auto;
+        }
+
+        h2 {
+            color: #00ff99;
+        }
+
+        .card {
+            background: #1a1a1a;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 8px;
+        }
+
+        footer {
+            background: #000;
+            text-align: center;
+            padding: 15px;
+            margin-top: 30px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Call of Duty: Warzone</h1>
+    <p>O melhor Battle Royale de ação</p>
+</header>
+
+<nav>
+    <a href="#sobre">Sobre</a>
+    <a href="#modos">Modos de Jogo</a>
+    <a href="#dicas">Dicas</a>
+</nav>
+
+<section id="sobre">
+    <h2>Sobre o Warzone</h2>
+    <div class="card">
+        <p>
+            Call of Duty: Warzone é um jogo gratuito de battle royale desenvolvido pela Activision.
+            O jogo conta com mapas gigantes, armas realistas e combates intensos.
+        </p>
+    </div>
+</section>
+
+<section id="modos">
+    <h2>Modos de Jogo</h2>
+    <div class="card">
+        <ul>
+            <li>Battle Royale Solo, Dupla, Trio e Squad</li>
+            <li>Ressurgência</li>
+            <li>Eventos por tempo limitado</li>
+        </ul>
+    </div>
+</section>
+
+<section id="dicas">
+    <h2>Dicas para Jogar Melhor</h2>
+    <div class="card">
+        <ul>
+            <li>Caia em locais menos disputados</li>
+            <li>Use fones para ouvir os inimigos</li>
+            <li>Monte um loadout equilibrado</li>
+            <li>Jogue em equipe e se comunique</li>
+        </ul>
+    </div>
+</section>
+
+<footer>
+    <p>Site sobre Call of Duty: Warzone - Criado por você</p>
+</footer>
+
+</body>
+</html>
+
